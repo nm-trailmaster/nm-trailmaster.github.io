@@ -1,41 +1,39 @@
-## nm-trailmaster
+## NM Trailmaster Summary 
 
-Hi
+Alot of New Mexicans can agree that the true beauty of this state is not fonud in Urban areas, but outside in nature. This app provides information on popular trails in ABQ (including parking options and the best times to visit said trails), It also provides information on some of the more popular camp sites in NM (including phone numbers to those in charge of maintaining these campsites, as well as a list of items you should bring when camping) and most importantly it is building a community of people who want to share their “sacred spots” with other nature-connoisseurs. NM Trailmaster is a gateway to many paths others have walked in our beatiful southwestern landscape.
 
-## Welcome to GitHub Pages
+## Intended Users
 
-You can use the [editor on GitHub](https://github.com/nm-trailmaster/nm-trailmaster.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* People that are looking for something active and fun to do.
+	> As a bromidrophobe, I hate doing cardio in a gym environment, I need something to help me get active in a way that doesn’t include me standing in a pile of someone else’s sweat.
+* Bored and broke New Mexicans that want to find cheaper ways to entertain themselves.
+	> As a working stiff, I’m tired of doing jello-shots at TGI Fridays and then not being able to pay my rent, I need a cheaper way to get my mind off what seems to be my impending doom at the hands of a super-flu.
+* Adventurers that want to challenge themselves.
+	> As a self-proclaimmed hike guru, I need a way to keep track of all the awesome trails i’ve blazed, so I can shove it in all the haters faces! Namaste.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Client component
 
-### Markdown
+* Functionality 
+	* Browse a list of of trails and campsites that have clear directions and pictures to create a stress-less outing.
+	* Document your own favorite spots (with photos and pinpoints).
+	* Take the Trailmaster challenge and visit all the trails and campsites.
+	* Never forget a thing again with our CampMasters essentials guide.
+* Persistet data 
+	* User photo galleries. 
+	* Stored campsite coordinates.
+	* Camplog (for simple journal entries, notes)
+* Device/external services
+	* Navigational system
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Server component
 
-```markdown
-Syntax highlighted code block
+* Functionality 
+	* Post to our Trailmasters Community feed. 
+	* Message your fellow Trailmasters to find the best spots!
+* Persistet data
+	* Liked posts
+	* Messages
 
-# Header 1
-## Header 2
-### Header 3
+### Stretch goals/possible enhancements
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nm-trailmaster/nm-trailmaster.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Weather functions (to plan trips in advance).
