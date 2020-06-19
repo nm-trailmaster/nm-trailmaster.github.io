@@ -37,3 +37,5 @@ Alot of New Mexicans can agree that the true beauty of this state is not fonud i
 ### Stretch goals/possible enhancements
 
 * Weather functions (to plan trips in advance).
+
+## [ERD diagram](erd.md)
