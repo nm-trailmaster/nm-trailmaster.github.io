@@ -42,6 +42,8 @@ A lot of New Mexicans can agree that the true beauty of this state is not found 
 
 * Weather functions (to plan trips in advance).
 
-## [Entity Relationship Diagram](erd.md)
+## Design documentation
 
-## [Wireframe](wireframe.md)
+* [Entity Relationship Diagram](docs/erd.md)
+
+* [Wireframe](docs/wireframe.md)
