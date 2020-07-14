@@ -41,7 +41,7 @@ A lot of New Mexicans can agree that the true beauty of this state is not found 
 
 * Weather functions (to plan trips in advance).
 * Take the Trailmaster challenge and visit all the trails and campsites.
-* Camplog (for simple journal entries, notes).
+* Camp log (for simple journal entries, notes).
 
 ## Implementation 
 
