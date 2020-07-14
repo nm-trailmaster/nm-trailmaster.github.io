@@ -42,6 +42,13 @@ A lot of New Mexicans can agree that the true beauty of this state is not found 
 
 * Weather functions (to plan trips in advance).
 
+## Implementation 
+
+* Server Implementation
+    * [Entity](https://github.com/nm-trailmaster/trailmaster-service/tree/master/src/main/java/edu/cnm/deepdive/trailmasterservice/model/entity)
+    * [Controller](https://github.com/nm-trailmaster/trailmaster-service/tree/master/src/main/java/edu/cnm/deepdive/trailmasterservice/controller)
+    * [Service](https://github.com/nm-trailmaster/trailmaster-service/tree/master/src/main/java/edu/cnm/deepdive/trailmasterservice/service)
+
 ## Design documentation
 
 * [Entity Relationship Diagram](docs/erd.md)
