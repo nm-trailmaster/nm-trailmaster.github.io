@@ -1,11 +1,14 @@
 ## NM Trailmaster Summary 
 
-A lot of New Mexicans can agree that the true beauty of this state is not found in Urban areas, but outside in nature. This app provides information on popular trails in ABQ (including parking options and the best times to visit said trails), It also provides information on some of the more popular camp sites in NM (including phone numbers to those in charge of maintaining these campsites, as well as a list of items you should bring when camping) and most importantly it is building a community of people who want to share their “sacred spots” with other nature-connoisseurs. Users will be able to upload photos and share coordinates to trails they would like to share with the community. NM Trailmaster is a gateway to many paths others have walked in our beatiful southwestern landscape.
+A lot of New Mexicans can agree that the true beauty of this state is not found in Urban areas, but outside in nature. 
+This app provides information on popular trails in ABQ (including parking options and the best times to visit said trails), It also provides information on some of the more popular camp sites in NM (including phone numbers to those in charge of maintaining these campsites, as well as a list of items you should bring when camping). 
+
+NM Trailmaster is building a community of people who want to share their “sacred spots” with other nature-connoisseurs. Users will be able to upload photos and share coordinates to trails they would like to share with the community. NM Trailmaster is a gateway to many paths others have walked in our beatiful southwestern landscape.
 
 ## Intended Users
 
 * People that are looking for alternative ways to exercise.
-	> As an introvert, I hate doing cardio in a gym environment, I need something to help me get active in a way that doesn’t give me social anxiety. Having access to many local trails will help keep me active without taking me out of my comfort zone.
+	> As an introvert, I hate doing cardio in a gym environment. I need something to help me get active in a way that doesn’t give me social anxiety. Having access to many local trails will help keep me active without taking me out of my comfort zone.
 * Broke students that want to find cheaper ways to entertain themselves.
 	> As a college student, I’m often strapped for cash. I need a way to de-stress that won't brake the bank. Hiking is usually the best option and with the Trailmasters app I can easily find trails in my area.
 * Adventurers that want to challenge themselves.
