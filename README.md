@@ -1,3 +1,8 @@
+## Team Roster
+* Austin
+* Jason
+* Curtis
+
 ## NM Trailmaster Summary 
 
 A lot of New Mexicans can agree that the true beauty of this state is not found in Urban areas, but outside in nature. 
