@@ -54,3 +54,7 @@ A lot of New Mexicans can agree that the true beauty of this state is not found 
 * [Entity Relationship Diagram](docs/erd.md)
 
 * [Wireframe](docs/wireframe.md)
+
+## Data Definition Language (DDL) for Data Model
+
+* [DDL]( https://github.com/nm-trailmaster/trailmaster-service/blob/master/docs/ddl.md)
