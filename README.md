@@ -1,7 +1,7 @@
 ## Team Roster
-* Austin
-* Jason
-* Curtis
+* Austin Preston
+* Jason Drake
+* Curtis Chavez
 
 ## NM Trailmaster Summary 
 
