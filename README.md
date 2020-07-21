@@ -1,3 +1,8 @@
+## Team Roster
+* Austin
+* Jason
+* Curtis
+
 ## NM Trailmaster Summary 
 
 A lot of New Mexicans can agree that the true beauty of this state is not found in Urban areas, but outside in nature. 
@@ -58,3 +63,7 @@ NM Trailmaster is building a community of people who want to share their “sacr
 * [Entity Relationship Diagram](docs/erd.md)
 
 * [Wireframe](docs/wireframe.md)
+
+## Data Definition Language (DDL) for Data Model
+
+* [DDL]( https://github.com/nm-trailmaster/trailmaster-service/blob/master/docs/ddl.md)
