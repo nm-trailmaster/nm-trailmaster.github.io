@@ -67,3 +67,5 @@ NM Trailmaster is building a community of people who want to share their “sacr
 ## Data Definition Language (DDL) for Data Model
 
 * [DDL]( https://github.com/nm-trailmaster/trailmaster-service/blob/master/docs/ddl.md)
+
+[Copyrights and Licenses](docs/copyrightsAndLicenses.md)
