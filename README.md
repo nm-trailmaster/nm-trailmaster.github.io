@@ -68,6 +68,8 @@ Front end
  
 ### REST Service Endpoint Documentation 
 
+To learn how to use all of our server endpoints please see the form [here](docs/endpoints.md)
+
 ### Build Instructions
 
 * Clone repository using SSH key in the code pull down menu from https://github.com/nm-trailmaster/nm-trailmaster.github.io.
