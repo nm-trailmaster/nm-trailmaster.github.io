@@ -44,28 +44,37 @@ Please be sure to read our short overview about our app NM TrailMasters [here]()
  
  * [App Tour]()
  
-### Basic User Instructions
+### User Instructions
+
+* [Basic User Instructions](docs/userInstructions.md)
 
 # Technical Documentation 
 
 ### Technical Design 
 
 * [Entity Relationship Diagram](docs/erd.md)
+
 * [DDL](https://github.com/nm-trailmaster/trailmaster-service/blob/master/docs/ddl.md)
 
 ### Outlines of Technology Stacks
 
 Back end 
 
-*
+* Spring , Hibernate, Apache Derby, Room, Gson, SQLite, Digital Ocean for server hosting
 
 Front end
 
-*
+* Android operating system, Android libraries, Retrofit, ReactiveX, Google Sign In
  
 ### REST Service Endpoint Documentation 
 
 ### Build Instructions
+
+* Clone repository using SSH key in the code pull down menu from https://github.com/nm-trailmaster/nm-trailmaster.github.io.
+
+* Import the project into IntelliJ using SHH key (git@github.com:nm-trailmaster/nm-trailmaster.github.io.git).
+
+* Build project and run application.
 
 ## Implementation 
 
