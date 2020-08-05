@@ -46,7 +46,14 @@ Please be sure to read our short overview about our app NM TrailMasters [here]()
  
 ### User Instructions
 
-* [Basic User Instructions](docs/userInstructions.md)
+* Once the build instructions are followed, the app can now be ran.
+* Once the app has built and downloaded to your phone or emulator we can begin to explore some of the finctionality of the app.
+* The opening splash screen has a required Google sign in button. This is where you need to select the sign in button and sign in with any Google account to have the ability to gain access into the app.
+* Once past the splash screen the user will see the large buttons and a small button at the top. The small button at the top right is to sign out of Google on the app.
+* From the main screen with three buttons you have the option to go to trail, campsite, and community.
+* Inside the Trails button you can click on the "ABQ Trails" button to go into preloaded trails. From here you can go into and read any trail information by clicking on it.
+* Inside the Camping button you can click on the "Camping" button to go into preloaded campsites. From here you can go into and read any campsite information by clicking on it. You can also click on the "Essentials" button to read all information inside.
+* Inside the Community button you can click on the "Bulletin Board" button. This will take you to a screen where other posted trails will be located. You can post to the bulletin board by pressing the button with the plus sign located in the bottom right. From here it will give you an option to put the Name of Trail, Description of Trail, Latitude of Trail, Longitude of Trail, and slide the rating scroll bar. Just click ok to post. Side note you cannot post a trail until all of the fields are filled out.
 
 # Technical Documentation 
 
