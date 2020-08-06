@@ -4,7 +4,7 @@
  
  * Austin Preston [GitHub](https://github.com/apreston26)
  
- * Curtis Chaves [GitHub](https://github.com/Curtis19-99?tab=repositories)
+ * Curtis Chavez [GitHub](https://github.com/Curtis19-99?tab=repositories)
  
  * Jason Drake [GitHub](https://github.com/jdrake16)
 
@@ -17,9 +17,11 @@ NM Trailmaster is building a community of people who want to share their “sacr
 
 ### Overview 
 
-Please be sure to read our short overview about our app NM TrailMasters [here]()
+Please be sure to read our short overview about our app NM TrailMasters [here](docs/pdf/overview.pdf)
 
 ### Summary of the Current State of the App
+
+The app currently has a couple functionalities. It features a handful of trails and campsites that can be viewed by any user for informational purposes. The app also includes a feature that allows a verified user to post information on trails that they want to share with the community. Eventually users will be able to upload pictures with their trails but that functionality not yet in place.
 
 ##### Stretch goals/possible enhancements
       
