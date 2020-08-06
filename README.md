@@ -17,7 +17,7 @@ NM Trailmaster is building a community of people who want to share their “sacr
 
 ### Overview 
 
-Please be sure to read our short overview about our app NM TrailMasters [here](docs/pdf/overview.pdf)
+Please be sure to read our short overview about our app NM TrailMasters [here](docs/pdf/overview.pdf). Also be sure to visiti our [website](https://nm-trailmaster.github.io/)
 
 ### Summary of Current State of the App
 
