@@ -19,7 +19,7 @@ NM Trailmaster is building a community of people who want to share their “sacr
 
 Please be sure to read our short overview about our app NM TrailMasters [here](docs/pdf/overview.pdf)
 
-### Summary of the Current State of the App
+### Summary of Current State of the App
 
 The app currently has a couple functionalities. It features a handful of trails and campsites that can be viewed by any user for informational purposes. The app also includes a feature that allows a verified user to post information on trails that they want to share with the community. Eventually users will be able to upload pictures with their trails but that functionality not yet in place.
 
@@ -43,6 +43,8 @@ The app currently has a couple functionalities. It features a handful of trails 
 ### Functional Design 
  
  * [Wireframe](docs/wireframe.md)
+ 
+ * [App Tour](https://photos.google.com/share/AF1QipMKh10Aa_gazfuF1Dk4R3htha9MMeITwXPgLnc0H9qn79W-gms6FVsXp96xOMGKlA/photo/AF1QipMReEL9Bfubfxf_Xi8DMWOJIzWf1gPVN6QB5BUl?key=MnhGYUdjYmZ4STY1ejBOTnItQXRENldXV3dld0t3)
  
  
 ### User Instructions
