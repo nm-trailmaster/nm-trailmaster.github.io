@@ -21,7 +21,23 @@ Please be sure to read our short overview about our app NM TrailMasters [here](d
 
 ### Summary of Current State of the App
 
-The app currently has a couple functionalities. It features a handful of trails and campsites that can be viewed by any user for informational purposes. The app also includes a feature that allows a verified user to post information on trails that they want to share with the community. Eventually users will be able to upload pictures with their trails but that functionality not yet in place.
+Current Deficiencies
+
+* 1 button in the trail options menu called "Challenge" (doesn't currently have a function)
+* 1 button in the community options menu called "Gallery" (doesn't currently have a function)
+
+Current functionalities
+ 
+* Features a handful of trails and campsites that can be viewed by any user for informational purposes. 
+* Feature that allows a verified user to post information on trails that they 
+want to share with the community. 
+
+Future functions
+
+* Challenge
+* Photo uploads
+* Community Gallery
+
 
 ##### Stretch goals/possible enhancements
       
