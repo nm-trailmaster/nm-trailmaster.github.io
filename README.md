@@ -44,7 +44,6 @@ The app currently has a couple functionalities. It features a handful of trails 
  
  * [Wireframe](docs/wireframe.md)
  
- * [App Tour]()
  
 ### User Instructions
 
